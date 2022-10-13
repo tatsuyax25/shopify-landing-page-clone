@@ -6,3 +6,16 @@ body {
     background: #ffffff;
     overflow-x: hidden;
 }
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 200px;
+    padding: 70px 20vw;
+}
+
+.green {
+    color: #ffffff;
+    background: #08855e;
+}
