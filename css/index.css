@@ -47,3 +47,16 @@ section {
     margin: -30vh 35vw;
     z-index: 1;
 }
+
+i {
+    font-size: 3rem;
+    color: #08855e;
+}
+
+.features {
+    margin-top: 12vh;
+}
+
+.features-text {
+    font-weight: bold;
+}
