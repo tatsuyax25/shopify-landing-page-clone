@@ -41,3 +41,9 @@ section {
 .custom-shape-divider-top-1665778060 .shape-fill {
     fill: #08855E;
 }
+
+.vector-img {
+    position: absolute;
+    margin: -30vh 35vw;
+    z-index: 1;
+}
